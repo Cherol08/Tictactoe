@@ -12,7 +12,7 @@ Each player has their own token :x: or :o:
 horizontally or diagonally with their tokens.
 
 
-:repeat: Players can keep playing the game and pressing 'r' which is the 
+:repeat: Players can keep playing the game by pressing 'r' which is the 
 restart button used to start the game over.
 
 ### How to contribute
